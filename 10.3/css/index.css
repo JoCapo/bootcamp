@@ -10,6 +10,6 @@ footer {
 .card {
 
 }
-.row{
-  grid-gap:10px;
+.container-fluid{
+  margin:15px;
 }
