@@ -13,3 +13,7 @@ footer {
 .container-fluid{
   margin:15px;
 }
+form{
+  background-color:#f2f2f2;
+  border-radius:7px;
+}
