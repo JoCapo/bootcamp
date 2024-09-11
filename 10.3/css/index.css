@@ -10,7 +10,6 @@ footer {
 .card {
 
 }
-
-#pink{
-  background-color:pink;
+.row{
+  grid-gap:10px;
 }
