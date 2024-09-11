@@ -24,3 +24,7 @@ div form{
   margin:0px;
   padding:0px;
 }
+
+.carousel-item{
+  height:70%;
+}
