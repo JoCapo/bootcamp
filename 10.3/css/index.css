@@ -27,4 +27,6 @@ div form{
 
 .carousel img{
   height:500px;
+  object-fit:cover; 
+  overflow:hidden;
 }
