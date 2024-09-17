@@ -1,4 +1,4 @@
-
+/* https://jocapo.github.io/bootcamp/gulpRoast/about.html */
 body {
     background-color: #082B59;
     margin: 0;
@@ -238,7 +238,6 @@ body {
       }
     .flexbox{
         display:block;
-
     }
     .gone{
         display:none;
