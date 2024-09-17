@@ -252,6 +252,7 @@ body {
     }
     .menu{
         width:70%;
+        margin:auto;
     }
     .grid{
         display:block;
