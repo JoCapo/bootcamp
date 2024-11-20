@@ -1,5 +1,5 @@
 // Create the addNumbers function here.
-function addNumbers(a+b){
-    
+function addNumbers(){
+    var a
 }
 // Create the stringConcat function here.
